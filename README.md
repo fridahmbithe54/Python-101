@@ -1,3 +1,4 @@
+#Fibonacci sequence checker
 This repository contains a python file which is used to if a random input number belongs to a fibonacci sequence and returns a true or false
 # for example
 N = int(input("Enter the number of terms : "))
